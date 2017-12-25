@@ -25,6 +25,4 @@ Also see official pytorch [example](https://github.com/pytorch/examples/blob/mas
 
 [IPython tutorial]() 
 
-The structure of this code is based on pemami4911's [implementation](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
-
 
