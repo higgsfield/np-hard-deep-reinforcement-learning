@@ -19,4 +19,6 @@ Blog post by fast ml: [Introduction to pointer networks](http://fastml.com/intro
 
 [Neural Combinatorial Optimization.ipynb](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Neural%20Combinatorial%20Optimization.ipynb) 
 
+Paper: [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940)
+
 
