@@ -1,4 +1,5 @@
-# deep reinforcement combinatorial optimization
+# combinatorial optimization with deep reinforcement learning - IPython tutorials
+using neural networks and reinforcement learning
 This tutorial demonstrates technique to solve combinatorial optimization problems such as the well-known travelling salesman problem. The method was presented in the paper [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940).
 
 The Algorithm applies the pointer network architecture wherein an attention mechanism is fashioned to point to elements of an input sequence, allowing a decoder to output said elements. The network is trained by reinforcement learning using an actor-critic method. 
@@ -9,20 +10,20 @@ The algorithm consists of two parts:
 
 ## Pointer Network
 
-Intro to PN for simple sorting task: [IPython tutorial](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Intro%20to%20Pointer%20Network.ipynb).
+Intro to PN for simple sorting task: [Intro to Pointer Network.ipynb](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Intro%20to%20Pointer%20Network.ipynb).
 
 Paper: [Pointer Networks](https://arxiv.org/abs/1506.03134).
 
 Blog post by fast ml: [Introduction to pointer networks](http://fastml.com/introduction-to-pointer-networks/).
 
-## Actor Critic 
+## Actor Critic and Sequence to Sequence without Attention
 
-Intro to A2C for simple sorting task: [IPython tutorial]()
+Intro to A2C with seq2seq for TSP: [IPython tutorial]()
 
 Also see official pytorch [example](https://github.com/pytorch/examples/blob/master/reinforcement_learning/actor_critic.py).
 
 ## Neural Combinatorial Optimization
 
-[IPython tutorial](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Neural%20Combinatorial%20Optimization.ipynb) 
+[Neural Combinatorial Optimization.ipynb](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Neural%20Combinatorial%20Optimization.ipynb) 
 
 
