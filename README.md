@@ -9,7 +9,7 @@ The algorithm consists of two parts:
 
 ## Pointer Network
 
-Intro to PN for simple sorting task: [IPython tutorial]().
+Intro to PN for simple sorting task: [IPython tutorial](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Intro%20to%20Pointer%20Network.ipynb).
 
 Paper: [Pointer Networks](https://arxiv.org/abs/1506.03134).
 
@@ -23,6 +23,6 @@ Also see official pytorch [example](https://github.com/pytorch/examples/blob/mas
 
 ## Neural Combinatorial Optimization
 
-[IPython tutorial]() 
+[IPython tutorial](https://github.com/higgsfield/np-hard-deep-reinforcement-learning/blob/master/Neural%20Combinatorial%20Optimization.ipynb) 
 
 
