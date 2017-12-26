@@ -1,5 +1,4 @@
-# combinatorial optimization with deep reinforcement learning - IPython tutorials
-using neural networks and reinforcement learning
+# combinatorial optimization with DL/RL: IPython tutorials
 This tutorial demonstrates technique to solve combinatorial optimization problems such as the well-known travelling salesman problem. The method was presented in the paper [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940).
 
 The Algorithm applies the pointer network architecture wherein an attention mechanism is fashioned to point to elements of an input sequence, allowing a decoder to output said elements. The network is trained by reinforcement learning using an actor-critic method. 
@@ -15,12 +14,6 @@ Intro to PN for simple sorting task: [Intro to Pointer Network.ipynb](https://gi
 Paper: [Pointer Networks](https://arxiv.org/abs/1506.03134).
 
 Blog post by fast ml: [Introduction to pointer networks](http://fastml.com/introduction-to-pointer-networks/).
-
-## Actor Critic and Sequence to Sequence without Attention
-
-Intro to A2C with seq2seq for TSP: [IPython tutorial]()
-
-Also see official pytorch [example](https://github.com/pytorch/examples/blob/master/reinforcement_learning/actor_critic.py).
 
 ## Neural Combinatorial Optimization
 
